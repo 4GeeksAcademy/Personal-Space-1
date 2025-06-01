@@ -1,3 +1,7 @@
+#wrapper{
+  background-image: linear-gradient(to left, rgb(75, 252, 75), rgb(0, 157, 255));;
+}
+
 .glow-box {
   box-shadow: 0 0 20px 5px rgb(131, 141, 255);
 }
@@ -7,4 +11,42 @@
     width: 50px;
     height: 50px;
     border-radius: 40%;
+}
+
+#the-box {
+  width: 50px;
+  height: 50px;
+}
+
+#the-other-box {
+  width: 50px;
+  height: 50px;
+}
+
+.red {
+  background-color: red;
+}
+.green {
+  background-color: greenyellow;
+}
+.dark {
+  background-color: black;
+}
+.blue {
+  background-color: blue;
+}
+
+.the-button {
+  background-color: aquamarine;
+}
+
+.the-quote {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+#the-question {
+  background-color: rgb(255, 255, 255);
+  width: 700px;
+  height: 50px;
+  border-radius: 20px;
 }
